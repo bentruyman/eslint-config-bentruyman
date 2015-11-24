@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-bentruyman",
+  "version": "1.0.0",
+  "description": "A shareable ESLint configuration for project's created by Ben Truyman",
+  "main": "index.js",
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentruyman/eslint-config-bentruyman.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Ben Truyman <ben@truyman.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bentruyman/eslint-config-bentruyman/issues"
+  },
+  "homepage": "https://github.com/bentruyman/eslint-config-bentruyman#readme"
+}
